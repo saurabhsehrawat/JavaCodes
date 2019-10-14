@@ -14,6 +14,6 @@ public class Calculator
 	System.out.println("Subtraction is "+(x-y));
 	System.out.println("Multiplication is "+(x*y));
 	System.out.println("Division is "+(x/y));
-	System.out.println("Changes made for GIT")
+	System.out.println("Changes made for GIT");
 	}
 }
