@@ -19,3 +19,10 @@ public static void main(String c[])
 		System.out.println("C");
 	}
 }
+class E
+{
+public static void main(String e[])
+	{
+		System.out.println("E");
+	}
+}
